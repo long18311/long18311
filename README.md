@@ -5,7 +5,7 @@
 </p>
 
 
-- ✍ I'm a  fresher software developer and is a student of the college [FPT Polytechnic](https://caodang.fpt.edu.vn/).
+- ✍ I'm a  fresher software developer.
 
 <br />
 
